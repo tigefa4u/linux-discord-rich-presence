@@ -2,11 +2,9 @@
 
 Customizable Discord Rich Presence client for Linux
 
-## Showcase
-
-![Showcase 1](./doc/images/showcase_1.png)
-
-![Showcase 2](./doc/images/showcase_2.png)
+<div align="center">
+<img width="49%" src="./doc/images/showcase_1.png" /> <img width="49%" src="./doc/images/showcase_2.png" />
+</div>
 
 ## Features
 
@@ -51,3 +49,7 @@ linux-discord-rich-presence -c ~/.config/linux-discord-rich-presencerc
 ```
 
 You also can add this command or `Discord (linux-discord-rich-presence) (minimized)` to autostart in your DE settings.
+
+## License
+
+Licensed under [GNU GPLv3](COPYING) only.
